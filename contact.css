@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    background-color: burlywood;
+    min-height: 90%;
+    margin-top: 10px;
+    
+}
+img{
+    padding-left: 20px;
+}
+
+header{
+    color:rgb(60, 35, 3);
+    font-size: 40px;
+    font-weight: bold;
+}
+h1{
+    color: rgb(60, 35, 3);
+    font-size: 1rem;
+}
+p{
+    color: whitesmoke;
+}
+.main{
+    margin-left:50px ;
+}
+footer{
+   
+   max-height: 20%;
+   padding-left: 50px;
+   
+}
+h2{
+    color: burlywood;
+}

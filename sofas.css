@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(65, 35,3);
+}
+img{
+    width: 350px;
+    height: 250px;
+    margin-left: 50px;
+   padding-bottom: 20px;
+   margin-top: 20px;
+}

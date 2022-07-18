@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./sofas/images/home-1622401_1920.jpg);
+    background-size: cover;
+    margin: 2rem;
+
+}
+h1{
+    color:whitesmoke;
+    margin-left: 50px;
+    font-size: 35px;
+    font-weight: bold;
+}
+.button{
+    display: flex;
+    justify-content: space-between;
+   
+   
+}
+button{
+    padding:0rem 2rem;
+    font-size: 2rem;
+    font-weight: lighter;
+    background-color: burlywood;
+    color:white;
+    
+}
+p{
+  color:whitesmoke;
+  font-size: 2.0rem;  
+  font-weight: lighter;
+  margin: 50px;
+  margin-left: 200px;
+}
+.comfort{
+    color:white;
+    background-color: burlywood;
+    margin-left: 300px;
+    font-weight: bold;
+    padding:1rem 2rem ;
+    width: 300px;
+}
+span{
+    color: rgb(60, 35, 3);
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    color:white;
+    min-height: 150px;
+}
+h2{
+    color:rgb(60, 35, 3);
+    font-size: 2.0rem;
+    margin-top: 50px;
+}
+a{
+    margin-bottom: 50px;
+    color: white;
+}
+svg{
+    width: 50px;
+    height: 50px;
+    margin-top: 100px;
+    padding-left: 20px;
+}
